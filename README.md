@@ -9,7 +9,7 @@ A high-performance **Windows GUI application** for visualizing AVL Tree operatio
 ## 📸 Demo
 
 <p align="center">
-  <img src="sample/demo.png" alt="AVL Tree Visualizer Demo" width="800"/>
+  <img src="sample/demo.gif" alt="AVL Tree Visualizer Demo" width="800"/>
 </p>
 
 
